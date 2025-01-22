@@ -11,7 +11,7 @@ email: A.Alsamman@cgiar.org
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Allan Lab.
 baseurl: "/ICARDA-Bioinformatics" # the subpath of your site, e.g. /blog
-url: "https://icarda-git.github.io" # the base hostname & protocol for your site
+url: "https://alsammanalsamman.github.io" # the base hostname & protocol for your site
 
 include:
   - .htaccess
